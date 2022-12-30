@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/CESFAM.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+
+a:hover {
+    opacity: 0.5;
+  }
